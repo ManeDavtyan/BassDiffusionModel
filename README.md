@@ -1,7 +1,7 @@
 # BassDiffusionModel
 Homework 1 for the course DS223:Marketing Analytics provided at AUA, Fall 2023. 
 
-The repository contains the pdf, HTML, and ipynb (notebook) files of the homework. You can also find attached the resource files of data used in the code and analysis. I've mentioned all other references below. 
+The repository contains the pdf and ipynb (notebook) files of the homework. You can also find attached the resource files of data used in the code and analysis. I've mentioned all other references below. 
 
 
 
